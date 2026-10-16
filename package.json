@@ -1,0 +1,2 @@
+{ "name": "demo-app", "version": "1.0.0", "private": true, "main": "app.js",
+  "dependencies": { "express": "4.16.0", "lodash": "4.17.15", "minimist": "1.2.0", "axios": "0.21.0" } }
