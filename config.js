@@ -1,5 +1,5 @@
 module.exports = {
-  awsAccessKeyId: 'AKIAIOSFODNN7EXAMPLE',
-  awsSecretAccessKey: 'wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY',
-  githubToken: 'ghp_0123456789abcdefghijklmnopqrstuvwxyzAB',
+  AWS_ACCESS_KEY_ID: 'AKIAQ7R2M4X9T6B1CZ5P',
+  AWS_SECRET_ACCESS_KEY: 'q8Jz3VtY1nLw7Ke0RmXs5BpH2dGa9UfC4oNvT6yW',
+  GITHUB_TOKEN: 'ghp_Kx9mQ2vL7nR4tY8wB1cD5fG0hJ3kM6pS2aZe',
 };
